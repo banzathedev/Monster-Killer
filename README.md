@@ -1,3 +1,4 @@
+
 ## Monster-Killer EN
 
 ```
@@ -9,7 +10,7 @@ but i have other projects with more complex UI/CSS or style, if want, be my gues
 
 ```
 
-## Project setup PT-BR
+## Project setup EN
 
 ```
 That is very simple, to play the game you have two options, you can clone the repository or download the files
